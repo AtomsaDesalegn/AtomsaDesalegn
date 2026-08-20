@@ -4,10 +4,10 @@
 
 <p><em>⚡ Full-Stack Developer &bull; Architecting Scalable Web Applications</em></p>
 
-<!-- Tailwind & SCSS styled action pills -->
+<!-- Action Buttons -->
 <p>
   <a href="https://www.alphapestcontrol.org" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Live_App-Alpha_Pest_Control-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live App">
+    <img src="https://img.shields.io/badge/🌐_Live_App-Alpha_Pest_Control-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live App">
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/atomsa_desalgn_maru" target="_blank">
@@ -65,21 +65,8 @@
 
 ---
 
-### 📊 Developer Metrics & Live Status
+### ⚡ Professional Status & Focus
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <p align="left">
-          🔭 <b>Current Focus:</b> Building enterprise-grade modular web platforms.<br>
-          👯 <b>Collaboration:</b> Open to high-impact full-stack development teams.<br>
-          ⚡ <b>Design Philosophy:</b> Clean component separation, utility-first UI, robust security middleware.
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+* 🔭 **Current Focus:** Building enterprise-grade modular web platforms using C#, Angular, and PostgreSQL.
+* 👯 **Collaboration:** Open to high-impact full-stack development teams and production projects.
+* 🎯 **Design Philosophy:** Clean component separation, utility-first UI styling, and robust security architecture.
