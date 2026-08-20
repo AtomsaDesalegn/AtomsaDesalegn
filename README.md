@@ -19,6 +19,5 @@ A passionate Full-Stack Developer specializing in building robust web applicatio
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalgn&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+* 🔭 Currently working on full-stack web applications with **C#, Angular, and PostgreSQL**.
+* 👯 Looking to collaborate on real-world projects and open-source systems.
