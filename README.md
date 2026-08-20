@@ -1,49 +1,85 @@
 <div align="center">
-  <h1>Hi there 👋 I'm Atomsa Desalegn</h1>
-  <p><em>A passionate Full-Stack Developer specializing in building robust web applications and scalable backend systems.</em></p>
-  
-  <p>
-    <a href="https://www.alphapestcontrol.org" target="_blank">
-      <img src="https://img.shields.io/badge/Live_App-Alpha_Pest_Control-brightgreen?style=for-the-badge&logo=globe" alt="Live App">
-    </a>
-    <a href="https://t.me/atomsa_desalgn_maru" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-Contact_Me-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-    </a>
-  </p>
+
+# 👋 Hi, I'm Atomsa Desalegn
+
+<p><em>⚡ Full-Stack Developer &bull; Architecting Scalable Web Applications</em></p>
+
+<!-- Tailwind & SCSS styled action pills -->
+<p>
+  <a href="https://www.alphapestcontrol.org" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Live_App-Alpha_Pest_Control-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live App">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/atomsa_desalgn_maru" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Telegram-Connect_Direct-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🎨 Architecture & Tech Stack Ecosystem
+> *Engineered with modern component-driven patterns, strict TypeScript typing, and clean SCSS/Tailwind styling structures.*
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-* **Backend:** C#, ASP.NET Core Web API, Entity Framework Core
-* **Frontend:** TypeScript, Angular, HTML5, CSS3, Tailwind CSS
-* **Databases:** PostgreSQL, Relational Database Design
-* **Architecture & Security:** RESTful APIs, HttpOnly Authentication Cookies, Custom Middleware
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>🛠️ Backend & Database</b></h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <ul>
+        <li><b>Core:</b> ASP.NET Core Web API, Entity Framework Core</li>
+        <li><b>Security:</b> HttpOnly Auth Cookies, Custom Middleware, XSRF Protection</li>
+        <li><b>Persistence:</b> Relational Design, Optimized Querying</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>💻 Frontend & UI/UX</b></h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      </p>
+      <ul>
+        <li><b>Framework:</b> Angular, Reactive State, NgRx SignalStore</li>
+        <li><b>Styling UI:</b> Tailwind CSS, SCSS Modular Mixins</li>
+        <li><b>Interactivity:</b> Responsive Layouts, Real-time DOM Updates</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Production & Flagship Projects
 
-* 🎓 **[Training Management System (tms-backend & tms-client)](https://github.com/AtomsaDesalegn)**: A comprehensive Training Management System featuring student enrollment administration, C# Web API endpoints, and an interactive Angular dashboard.
-* 🐛 **[Alpha Pest Control Service](https://www.alphapestcontrol.org)**: A fully deployed, live business application providing safe and reliable operational solutions for real-world workflows.
+| Project Name | Stack & Architecture Highlights | Live / Code Link |
+| :--- | :--- | :--- |
+| **🎓 Training Management System** | `tms-backend` & `tms-client`: Modular services, robust C# Web API endpoints, and comprehensive student administration. | [GitHub Repo](https://github.com/AtomsaDesalegn) |
+| **🐛 Alpha Pest Control Service** | High-performance full-stack web utility built for live operational workflows and automated customer handling. | [🌐 Live App](https://www.alphapestcontrol.org) |
 
 ---
 
-### 📈 GitHub Stats & Status
-
-* 🔭 **Currently working on:** Full-stack web applications with C#, Angular, and PostgreSQL.
-* 👯 **Looking to collaborate on:** Real-world projects and open-source systems.
+### 📊 Developer Metrics & Live Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=radical" alt="Atomsa's GitHub Stats" />
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <p align="left">
+          🔭 <b>Current Focus:</b> Building enterprise-grade modular web platforms.<br>
+          👯 <b>Collaboration:</b> Open to high-impact full-stack development teams.<br>
+          ⚡ <b>Design Philosophy:</b> Clean component separation, utility-first UI, robust security middleware.
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
