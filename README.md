@@ -136,26 +136,37 @@
 
 <div align="center">
 
-I am actively open to full-stack opportunities, professional internships, and collaborative software projects.
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: profile; padding: 15px;">
+        <a href="mailto:atomsadesalegn636@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://t.me/AtomsaDesalegn" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<br><br>
+  <br>
 
-<a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Explore_My_Live_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
-</a>
+  💬 *“Build with purpose. Learn continuously. Improve every day.”*
 
-<br><br>
+  <br>
 
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-<br><br>
-
-💬 *“Build with purpose. Learn continuously. Improve every day.”*
-
-<br>
-
-⭐ *If you find my work interesting, consider giving my repositories a star!*
+  ⭐ *If you find my work interesting, consider giving my repositories a star!*
 
 </div>
