@@ -13,7 +13,7 @@
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y)](https://git.io/streak-stats)
+<a href="#" onclick="return false;" style="cursor: default;"><img src="https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -85,10 +85,10 @@
         <li>🎨 Reactive Angular client & Auth</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /></a>
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></a>
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -101,9 +101,9 @@
         <li>⚡ Performance-focused frontend rendering</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
+        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
       </p>
     </td>
   </tr>
@@ -115,8 +115,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" alt="Top Languages" />
+<a href="#" onclick="return false;" style="cursor: default;"><img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" alt="GitHub Stats" /></a>
+<a href="#" onclick="return false;" style="cursor: default;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" alt="Top Languages" /></a>
 
 </div>
 
