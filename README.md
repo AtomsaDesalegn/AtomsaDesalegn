@@ -39,24 +39,24 @@
 <div align="center">
 
 ### 🎨 Frontend Engineering
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### ⚙️ Backend & Architecture
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 
 ### 🗄️ Database & DevOps
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
@@ -85,10 +85,10 @@
         <li>🎨 Reactive Angular client & Auth</li>
       </ul>
       <p>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /></a>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></a>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /></a>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -101,9 +101,9 @@
         <li>⚡ Performance-focused frontend rendering</li>
       </ul>
       <p>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
-        <a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
     </td>
   </tr>
@@ -115,9 +115,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 
 </div>
 
@@ -136,27 +136,22 @@
 
 <div align="center">
 
+  <div style="margin-bottom: 20px;">
+    <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Explore_My_Interactive_Portfolio_Website-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
+
   <table align="center" style="border: none; background: transparent;">
     <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
-        </a>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </td>
-      <td align="center" style="border: none; padding: profile; padding: 15px;">
-        <a href="mailto:atomsadesalegn636@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <a href="https://t.me/AtomsaDesalegn" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-        </a>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
       </td>
     </tr>
   </table>
