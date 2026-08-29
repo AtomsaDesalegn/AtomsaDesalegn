@@ -6,7 +6,7 @@
 
 <br><br>
 
-<!-- Active functional links for LinkedIn, Email, and Telegram -->
+<!-- Functional Links -->
 <a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:atomsadesalegn636@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://t.me/atomsa_desalegn_maru" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
