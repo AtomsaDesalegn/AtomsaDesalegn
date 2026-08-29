@@ -6,14 +6,11 @@
 
 <br><br>
 
-<!-- Social & Contact Badges -->
-<a href="https://github.com/AtomsaDesalegn" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/atomsadesalegn" target="_blank">
+<!-- Social & Contact Badges (Telegram, Gmail, LinkedIn Only) -->
+<a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:atomsadesalegn@gmail.com">
+<a href="mailto:atomsadesalegn636@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://t.me/AtomsaDesalegn" target="_blank">
@@ -105,7 +102,7 @@
       <p>A live, production-deployed website engineered for a real-world commercial service business.</p>
       <p><b>Key Highlights:</b></p>
       <ul>
-        <li>🌐 Live production deployment</li>
+        <li>🌐 <a href="https://www.alphapestcontrol.org/" target="_blank">Live Production Deployment</a></li>
         <li>📱 Fully responsive modern UI</li>
         <li>⚡ Performance-focused frontend rendering</li>
       </ul>
@@ -144,21 +141,18 @@
 
 <div align="center">
 
-I am actively open to full-stack opportunities, professional internships, and collaborative software projects.
+I am actively open to full-stack opportunities, professional internships, and collaborative software projects. Check out my live portfolio at <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">atomsadesalegn.github.io/My-profile</a>!
 
-<br>
+<br><br>
 
-<a href="https://linkedin.com/in/atomsadesalegn" target="_blank">
+<a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:atomsadesalegn@gmail.com">
+<a href="mailto:atomsadesalegn636@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://t.me/AtomsaDesalegn" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://github.com/AtomsaDesalegn" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
