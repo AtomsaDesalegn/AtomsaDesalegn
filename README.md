@@ -7,7 +7,7 @@
 <br><br>
 
 <!-- Unclickable Badges -->
-<a href="www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:atomsadesalegn636@gmail.com" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://t.me/atomsa_desalegn_maru" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
@@ -139,7 +139,7 @@ I am actively open to full-stack opportunities, professional internships, and co
 
 <br><br>
 
-<a href="www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:atomsadesalegn636@gmail.com" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://t.me/atomsa_desalegn_maru" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
