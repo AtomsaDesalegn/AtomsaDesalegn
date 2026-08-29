@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtomsaDesalegn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -114,9 +114,9 @@
 
 <div align="center">
 
-<img src="https://github.com/AtomsaDesalegn" width="0" height="0">
-<p><img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 
 </div>
 
@@ -136,10 +136,8 @@
 <div align="center">
 
   <div style="margin: 25px 0; text-align: center;">
-    <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank" style="text-decoration: none;">
-      <span style="background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%); color: #ffffff; padding: 14px 32px; border-radius: 9999px; font-weight: 700; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; display: inline-block; box-shadow: 0 4px 15px rgba(14, 165, 233, 0.4); transition: all 0.3s ease;">
-        🚀 Explore My Live Portfolio
-      </span>
+    <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Explore_My_Live_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
   </div>
 
