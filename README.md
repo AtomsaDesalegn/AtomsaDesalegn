@@ -1,72 +1,290 @@
 <div align="center">
 
-# 👋 Hi, I'm Atomsa Desalegn
+# 👋 Hi, I'm **Atomsa Desalegn**
 
-<p><em>⚡ Full-Stack Developer &bull; Architecting Scalable Web Applications</em></p>
+### ⚡ Full-Stack Developer
 
-<!-- Action Buttons -->
+**Building modern, scalable & user-focused web applications**
+
 <p>
-  <a href="https://www.alphapestcontrol.org" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_App-Alpha_Pest_Control-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Live App">
+  <a href="https://github.com/AtomsaDesalegn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/atomsa_desalgn_maru" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Telegram-Connect_Direct-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://www.linkedin.com/in/atomsa-desalegn5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.alphapestcontrol.org">
+    <img src="https://img.shields.io/badge/🌐_Live_Project-Alpha_Pest_Control-38B2AC?style=for-the-badge" alt="Alpha Pest Control"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AtomsaDesalegn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer** passionate about turning ideas into reliable, scalable, and intuitive digital products.
+
+I enjoy working across the entire application lifecycle — from designing responsive interfaces and reusable components to building secure APIs, database architectures, and production-ready systems.
+
+```text
+💡 Think → 🏗️ Build → 🧪 Test → 🚀 Deploy → 🔄 Improve
+```
+
+### 🎯 What I Focus On
+
+* 🏗️ **Full-Stack Web Development**
+* 🔐 **Secure & maintainable backend architectures**
+* 🎨 **Modern UI/UX & responsive interfaces**
+* 🗄️ **Relational database design & optimization**
+* ⚡ **Performance & scalable application architecture**
+* 🧩 **Clean, reusable and modular code**
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,sass" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+</p>
+
+### 🗄️ Database & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </div>
 
 ---
 
-### 🎨 Architecture & Tech Stack Ecosystem
-> *Engineered with modern component-driven patterns, strict TypeScript typing, and clean SCSS/Tailwind styling structures.*
+# 🧠 Development Expertise
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b>🛠️ Backend & Database</b></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <ul>
-        <li><b>Core:</b> ASP.NET Core Web API, Entity Framework Core</li>
-        <li><b>Security:</b> HttpOnly Auth Cookies, Custom Middleware, XSRF Protection</li>
-        <li><b>Persistence:</b> Relational Design, Optimized Querying</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><b>💻 Frontend & UI/UX</b></h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-      </p>
-      <ul>
-        <li><b>Framework:</b> Angular, Reactive State, NgRx SignalStore</li>
-        <li><b>Styling UI:</b> Tailwind CSS, SCSS Modular Mixins</li>
-        <li><b>Interactivity:</b> Responsive Layouts, Real-time DOM Updates</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Frontend Engineering
+
+* Angular
+* TypeScript
+* Reactive state management
+* Component-driven architecture
+* Tailwind CSS
+* SCSS
+* Responsive UI/UX
+* REST API integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Backend Engineering
+
+* C#
+* ASP.NET Core Web API
+* Entity Framework Core
+* RESTful API design
+* Authentication & authorization
+* Middleware
+* Secure HTTP-only cookies
+* Database-driven applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Database
+
+* PostgreSQL
+* MySQL
+* Relational database design
+* Entity relationships
+* Query optimization
+* ORM-based data access
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Engineering Practices
+
+* Git & GitHub
+* Modular architecture
+* Clean code
+* API testing
+* Debugging & troubleshooting
+* Responsive design
+* Production deployment
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🚀 Production & Flagship Projects
+# 🚀 Featured Projects
 
-| Project Name | Stack & Architecture Highlights | Live / Code Link |
-| :--- | :--- | :--- |
-| **🎓 Training Management System** | `tms-backend` & `tms-client`: Modular services, robust C# Web API endpoints, and comprehensive student administration. | [GitHub Repo](https://github.com/AtomsaDesalegn) |
-| **🐛 Alpha Pest Control Service** | High-performance full-stack web utility built for live operational workflows and automated customer handling. | [🌐 Live App](https://www.alphapestcontrol.org) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎓 Training Management System
+
+A full-stack platform designed to manage training and student-related workflows.
+
+### Highlights
+
+* 🧩 Modular backend architecture
+* ⚙️ ASP.NET Core Web API
+* 🎨 Angular client
+* 🗄️ PostgreSQL database
+* 🔐 Authentication & authorization
+* 📊 Student administration
+
+**Stack**
+
+`C#` `ASP.NET Core` `Angular` `TypeScript` `PostgreSQL`
+
+<br/>
+
+<a href="https://github.com/AtomsaDesalegn">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐜 Alpha Pest Control
+
+A production website built for a real-world pest-control service.
+
+### Highlights
+
+* 🌐 Live production deployment
+* 📱 Responsive interface
+* 🎨 Modern UI
+* ⚡ Performance-focused frontend
+* 📍 Service-area presentation
+* 📞 Customer-focused interaction
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br/>
+
+<a href="https://www.alphapestcontrol.org">
+<img src="https://img.shields.io/badge/LIVE_WEBSITE-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ Professional Status & Focus
+# 📊 GitHub Analytics
 
-* 🔭 **Current Focus:** Building enterprise-grade modular web platforms using C#, Angular, and PostgreSQL.
-* 👯 **Collaboration:** Open to high-impact full-stack development teams and production projects.
-* 🎯 **Design Philosophy:** Clean component separation, utility-first UI styling, and robust security architecture.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 My Development Journey
+
+```text
+Frontend        ███████████████████░░   Angular • TypeScript • Tailwind
+Backend         ██████████████████░░░   C# • ASP.NET Core • REST APIs
+Database        ████████████████░░░░░   PostgreSQL • MySQL
+Architecture    ███████████████░░░░░░   Modular • Clean • Scalable
+DevOps/Tools    █████████████░░░░░░░░   Git • GitHub • Deployment
+```
+
+---
+
+# 🎯 Current Focus
+
+> **Building production-ready applications with clean architecture, great UX, and reliable backend systems.**
+
+Currently focusing on:
+
+* 🚀 Advanced **ASP.NET Core**
+* 🧩 Scalable **Angular architectures**
+* 🗄️ Advanced **PostgreSQL**
+* 🔐 Application security
+* ⚡ Performance optimization
+* 🏗️ Enterprise application architecture
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **full-stack opportunities, internships, collaborations, and interesting software projects.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/atomsa-desalegn5">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AtomsaDesalegn">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.alphapestcontrol.org">
+<img src="https://img.shields.io/badge/Visit_My_Live_Project-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💬 *"Build with purpose. Learn continuously. Improve every day."*
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+</div>
