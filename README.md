@@ -7,9 +7,9 @@
 <br><br>
 
 <!-- Unclickable Badges -->
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:atomsadesalegn636@gmail.com" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/atomsa_desalegn_maru" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br><br>
 
@@ -135,13 +135,13 @@
 
 <div align="center">
 
-I am actively open to full-stack opportunities, professional internships, and collaborative software projects. Check out my live portfolio at <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">atomsadesalegn.github.io/My-profile</a>!
+I am actively open to full-stack opportunities, professional internships, and collaborative software projects. Check out my live portfolio at <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">MY PORTIFOLIO</a>!
 
 <br><br>
 
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="www.linkedin.com/in/atomsa-desalegn5" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:atomsadesalegn636@gmail.com" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/atomsa_desalegn_maru" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br><br>
 
