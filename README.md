@@ -1,10 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Atomsa Desalegn
-### ⚡ Full-Stack Developer
-**Building modern, scalable & user-focused web applications**
+# 👋 Hi there, I'm Atomsa Desalegn
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Developer;Building+Scalable+Web+Applications;C%23+.NET+%7C+Angular+%7C+PostgreSQL" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Social & Contact Badges -->
+<a href="https://github.com/AtomsaDesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/atomsadesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:atomsadesalegn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/AtomsaDesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y)](https://git.io/streak-stats)
 
 </div>
 
@@ -12,106 +30,143 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack Developer passionate about turning ideas into reliable, scalable, and intuitive digital products.  
-I enjoy working across the entire application lifecycle — from designing responsive interfaces and reusable components to building secure APIs, database architectures, and production-ready systems.
+<div align="center">
+  <em>Passionate Full-Stack Developer turning ideas into reliable, scalable, and intuitive digital products.<br>
+  I build modern web applications across the entire lifecycle — from responsive UI architectures to secure enterprise APIs and robust databases.</em>
+</div>
 
-> 💡 **Think** → 🏗️ **Build** → 🧪 **Test** → 🚀 **Deploy** → 🔄 **Improve**
+<br>
 
----
-
-## 🎯 What I Focus On
-
-* 🏗️ **Full-Stack Web Development**
-* 🔐 **Secure & maintainable backend architectures**
-* 🎨 **Modern UI/UX & responsive interfaces**
-* 🗄️ **Relational database design & optimization**
-* ⚡ **Performance & scalable application architecture**
-* 🧩 **Clean, reusable and modular code**
+<p align="center">
+  <code>💡 Think</code> &nbsp;➔&nbsp; <code>🏗️ Build</code> &nbsp;➔&nbsp; <code>🧪 Test</code> &nbsp;➔&nbsp; <code>🚀 Deploy</code> &nbsp;➔&nbsp; <code>🔄 Improve</code>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| 🎨 **Frontend** | Angular • TypeScript • Tailwind CSS • SCSS • Reactive State Management |
-| ⚙️ **Backend** | C# • ASP.NET Core Web API • Entity Framework Core • RESTful Design • Middleware |
-| 🗄️ **Database & Data** | PostgreSQL • MySQL • Relational Design • ORM-based Access |
-| 🔧 **Tools & Development** | Git • GitHub • Clean Code • API Testing • Production Deployment |
+<div align="center">
+
+### 🎨 Frontend Engineering
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### ⚙️ Backend & Architecture
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+
+### 🗄️ Database & DevOps
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
-## 🧠 Development Expertise
+## 🧠 Core Expertise
 
-### 🔹 Frontend Engineering
-* Angular & TypeScript
-* Reactive state management & Component-driven architecture
-* Tailwind CSS & SCSS
-* Responsive UI/UX & REST API integration
-
-### 🔹 Backend Engineering
-* C# & ASP.NET Core Web API
-* Entity Framework Core & RESTful API design
-* Authentication, authorization & secure HTTP-only cookies
-* Middleware & database-driven applications
-
-### 🔹 Database
-* PostgreSQL & MySQL
-* Relational database design & entity relationships
-* Query optimization & ORM-based data access
-
-### 🔹 Engineering Practices
-* Git & GitHub workflows
-* Modular architecture & clean code principles
-* API testing, debugging & troubleshooting
-* Responsive design & production deployment
+* 🌐 **Frontend Development:** Component-driven design, reactive state flows, responsive cross-browser UIs, and seamless REST API integration.
+* ⚙️ **Backend Engineering:** Secure HTTP-only cookie authentication, authorization policies, pipeline middleware, and robust database-driven APIs.
+* 🗄️ **Database Optimization:** Complex relational schema design, entity relationship mapping, migrations, indexing, and high-performance query tuning.
+* 🚀 **Engineering Standards:** Modular separation of concerns, clean code practices, automated unit testing (xUnit, NSubstitute), and reliable version control.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Training Management System
-A full-stack platform designed to manage training and student-related workflows.
-
-* **Highlights:** 🧩 Modular backend architecture | ⚙️ ASP.NET Core Web API | 🎨 Angular client | 🗄️ PostgreSQL database | 🔐 Authentication & authorization | 📊 Student administration
-* **Stack:** `C#` `ASP.NET Core` `Angular` `TypeScript` `PostgreSQL`
-
-### 🐜 Alpha Pest Control
-A production website built for a real-world pest-control service.
-
-* **Highlights:** 🌐 Live production deployment | 📱 Responsive interface | 🎨 Modern UI | ⚡ Performance-focused frontend | 📍 Service-area presentation | 📞 Customer-focused interaction
-* **Stack:** `HTML` `CSS` `JavaScript`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Training Management System</h3>
+      <p>A full-stack enterprise platform built to manage institutional training and student-related workflows efficiently.</p>
+      <p><b>Key Highlights:</b></p>
+      <ul>
+        <li>🧩 Modular backend architecture</li>
+        <li>⚙️ ASP.NET Core Web API & PostgreSQL</li>
+        <li>🎨 Reactive Angular client & Auth</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐜 Alpha Pest Control</h3>
+      <p>A live, production-deployed website engineered for a real-world commercial service business.</p>
+      <p><b>Key Highlights:</b></p>
+      <ul>
+        <li>🌐 Live production deployment</li>
+        <li>📱 Fully responsive modern UI</li>
+        <li>⚡ Performance-focused frontend rendering</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 My Development Journey
+## 📈 GitHub Stats
 
-* **Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████████████████░░` &nbsp; Angular • TypeScript • Tailwind
-* **Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `██████████████████░░░` &nbsp; C# • ASP.NET Core • REST APIs
-* **Database** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████████████░░░░░` &nbsp; PostgreSQL • MySQL
-* **Architecture** &nbsp;&nbsp;&nbsp; `███████████████░░░░░░` &nbsp; Modular • Clean • Scalable
-* **DevOps/Tools** &nbsp;&nbsp; `█████████████░░░░░░░░` &nbsp; Git • GitHub • Deployment
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" />
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-Building production-ready applications with clean architecture, great UX, and reliable backend systems.  
-Currently focusing on:
-
-* 🚀 **Advanced ASP.NET Core**
-* 🧩 **Scalable Angular architectures**
-* 🗄️ **Advanced PostgreSQL**
-* 🔐 **Application security**
-* ⚡ **Performance optimization**
-* 🏗️ **Enterprise application architecture**
+> * Scaling proficiency in enterprise .NET architectures & advanced ASP.NET Core patterns
+> * Designing modular, reactive Angular client applications
+> * Optimizing relational database performance and query execution layers
+> * Enhancing application security protocols and automated testing strategies
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-I'm open to full-stack opportunities, internships, collaborations, and interesting software projects.
+<div align="center">
 
-> 💬 *"Build with purpose. Learn continuously. Improve every day."*
+I am actively open to full-stack opportunities, professional internships, and collaborative software projects.
 
-⭐ If you find my projects interesting, consider giving them a star!
+<br>
+
+<a href="https://linkedin.com/in/atomsadesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:atomsadesalegn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/AtomsaDesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://github.com/AtomsaDesalegn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+💬 *“Build with purpose. Learn continuously. Improve every day.”*
+
+<br>
+
+⭐ *If you find my work interesting, consider giving my repositories a star!*
+
+</div>
