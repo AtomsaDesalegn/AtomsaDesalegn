@@ -13,7 +13,7 @@
 
 <br><br>
 
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=AtomsaDesalegn&theme=tokyonight&hide_border=true&date_format=M%20j%5Bth%5D%2C%20Y" alt="GitHub Streak" />
 
 </div>
 
@@ -115,8 +115,9 @@
 
 <div align="center">
 
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" alt="GitHub Stats" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" height="170" alt="Top Languages" />
 
 </div>
 
@@ -135,7 +136,13 @@
 
 <div align="center">
 
-I am actively open to full-stack opportunities, professional internships, and collaborative software projects. Check out my live portfolio at <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">atomsadesalegn.github.io/My-profile</a>!
+I am actively open to full-stack opportunities, professional internships, and collaborative software projects.
+
+<br><br>
+
+<a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Explore_My_Live_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 
 <br><br>
 
