@@ -6,10 +6,9 @@
 
 <br><br>
 
-<!-- Unclickable Badges -->
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="#" onclick="return false;" style="cursor: default;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 
 <br><br>
 
@@ -136,27 +135,21 @@
 
 <div align="center">
 
-  <div style="margin-bottom: 20px;">
-    <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_Explore_My_Interactive_Portfolio_Website-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <div style="margin: 20px 0;">
+    <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank" style="text-decoration: none;">
+      <div style="display: inline-block; background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%); color: white; padding: 12px 28px; border-radius: 30px; font-weight: bold; font-family: sans-serif; box-shadow: 0 4px 12px rgba(14, 165, 233, 0.3);">
+        🌐 Explore My Live Portfolio Website
+      </div>
     </a>
   </div>
 
-  <table align="center" style="border: none; background: transparent;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-      </td>
-    </tr>
-  </table>
-
   <br>
+
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+
+  <br><br>
 
   💬 *“Build with purpose. Learn continuously. Improve every day.”*
 
