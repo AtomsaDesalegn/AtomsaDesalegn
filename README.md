@@ -6,9 +6,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://t.me/AtomsaDesalegn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br><br>
 
@@ -114,9 +114,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+<img src="https://github.com/AtomsaDesalegn" width="0" height="0">
+<p><img src="https://github-readme-stats.vercel.app/api?username=AtomsaDesalegn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomsaDesalegn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" /></p>
 
 </div>
 
@@ -135,21 +135,23 @@
 
 <div align="center">
 
-  <div style="margin: 20px 0;">
+  <div style="margin: 25px 0; text-align: center;">
     <a href="https://atomsadesalegn.github.io/My-profile/" target="_blank" style="text-decoration: none;">
-      <div style="display: inline-block; background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%); color: white; padding: 12px 28px; border-radius: 30px; font-weight: bold; font-family: sans-serif; box-shadow: 0 4px 12px rgba(14, 165, 233, 0.3);">
-        🌐 Explore My Live Portfolio Website
-      </div>
+      <span style="background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%); color: #ffffff; padding: 14px 32px; border-radius: 9999px; font-weight: 700; font-size: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; display: inline-block; box-shadow: 0 4px 15px rgba(14, 165, 233, 0.4); transition: all 0.3s ease;">
+        🚀 Explore My Live Portfolio
+      </span>
     </a>
   </div>
 
   <br>
 
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/atomsa-desalegn5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://t.me/AtomsaDesalegn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
 
-  <br><br>
+  <br>
 
   💬 *“Build with purpose. Learn continuously. Improve every day.”*
 
